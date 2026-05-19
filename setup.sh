@@ -7,4 +7,4 @@ go get github.com/valyala/fasthttp
 go build
 npm install discord.js
 apt install screen
-screen node bot.js
+nano bot.js
