@@ -2,7 +2,7 @@ const { Client, GatewayIntentBits } = require('discord.js');
 const { execFile } = require('child_process');
 const fs = require('fs');
 
-const TOKEN = 'MTUwNTYwNTMzODAwNTYzOTI0OA.Gc3jBg.RXqJ0GYuu8b_xY6OH9bFx-XAx_wtfIPM7W1GWg';
+const TOKEN = 'MTUwNTYwNTMzODAwNTYzOTI0OA.GfktLc.l1Khp1-PShyU9IiM2E1b8HF39f5YSNo3vseX4E';
 const PREFIX = '!';
 const BINARY = './http';            // path binary Go flooder
 const DEFAULT_THREADS = 1500;       // otomatis 1500 thread
